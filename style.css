@@ -1,0 +1,67 @@
+@font-face {
+    font-family: inter;
+    src: url("Fonts/Inter-Regular.ttf");
+}
+body {
+    font-family: "inter";
+}
+h1 {
+    font-size: 25px;
+    margin-left: 141px;
+    margin-top: 85px;
+}
+
+table {
+    margin-left: 141px;
+    height: 570px;
+    width: 992px;
+}
+table, thead, tr, td, th {
+    border: 1px solid #DADADA;
+    border-collapse: collapse;
+}
+thead {
+    background-color: #F9F9F9;
+    padding: 15px;
+}
+tbody {
+    background-color: #FFFFFF;
+}
+
+.column-1 {
+    width: 72px;
+}
+.column-2 {
+    width: 444px;
+}
+.column-3 {
+    width: 276px;
+}
+.column-4 {
+    width: 251px;
+}
+
+.id {
+    font-weight: 700;
+    padding-left: 32px;
+}
+.text {
+    font-weight: 500;
+    padding-left: 23px;
+}
+.date {
+    font-weight: 500;
+    text-align: center;
+    color: #FF0000;
+}
+.edit {
+    font-weight: 500;
+    text-align: center;
+}
+
+button {
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    border: 0px;
+}

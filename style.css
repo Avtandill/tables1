@@ -30,15 +30,23 @@ tbody {
 
 .column-1 {
     width: 72px;
+    padding-top: 21px;
+    padding-bottom: 14px;
 }
 .column-2 {
     width: 444px;
+    padding-top: 21px;
+    padding-bottom: 14px;
 }
 .column-3 {
     width: 276px;
+    padding-top: 21px;
+    padding-bottom: 14px;
 }
 .column-4 {
     width: 251px;
+    padding-top: 21px;
+    padding-bottom: 14px;
 }
 
 .id {
